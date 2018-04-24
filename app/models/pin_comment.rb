@@ -1,0 +1,2 @@
+class PinComment < ApplicationRecord
+end
